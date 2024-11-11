@@ -1,4 +1,4 @@
-# EX-7-Implement DES Encryption and Decryption
+# EX-8-Implement AES Encryption and Decryption
 
 ## Aim:
   Implementation of Pseudorandom Number Generation Using Standard Library.
@@ -80,7 +80,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![Screenshot 2024-11-11 090457](https://github.com/user-attachments/assets/c431661a-2a0a-4e12-8b78-7f4a3ad87d96)
+![Screenshot 2024-11-11 103209](https://github.com/user-attachments/assets/d483abff-feaf-4a0c-a513-5645fe9128f7)
+
 
 
 ## RESULT: 
